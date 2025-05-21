@@ -66,4 +66,3 @@ poetry install
 You can then use the genserated virtual environment to run the notebooks.
 If not, you can open a shell session using `poetry shell` and run `jupyter notebook` from there.
 
-.
