@@ -1,0 +1,9 @@
+[submodule "FedKit"]
+	path = FedKit
+	url = https://github.com/FedCampus/FedKit
+[submodule "FedCampus_Flutter"]
+	path = FedCampus_Flutter
+	url = https://github.com/FedCampus/FedCampus_Flutter
+[submodule "FL-game"]
+	path = FL-game
+	url = https://github.com/Thea-Feng/FL-game
