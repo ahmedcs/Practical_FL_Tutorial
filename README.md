@@ -2,15 +2,15 @@
 
 This tutorial contains various codes used the tutorial titles ADVANCING FEDERATED LEARNING IN PRACTICE: FROM THEORY TO REAL-WORLD EDGE APPLICATIONS" which is held at the [IEEE International Conference on Machine Learning for Communication and Network](https://icdcs2025.icdcs.org/) (IEEE ICMLCN 2025) in 26 May 2025, Barcelona. You can find a published summary of the tutorial content in the conference proceedings.
 
-# Part 1 - From Theory to Practice of FL
+# Part 1-1 - From Theory to Practice of FL
 
-# Part 2 - Mechanism and Deployment Strategies for FL at the Edge
+# Part 1-2 - Mechanism and Deployment Strategies for FL at the Edge
 The materials for this part, including the [FLgame](https://github.com/Thea-Feng/FL-game/tree/e2063457e19263ef856d8cc8c63a4aab728f3037) code and presentation [slides](slides), are organized in the relevant folders of this repository and will be used during the tutorial.
 
-# Part 3 - Robust FL for Intrusion Detection Systems (IDS)
+# Part 2-1 - Robust FL for Intrusion Detection Systems (IDS)
 This part's  materials, including the [Jupyter notebooks](notebooks), the [datasets](datasets) and the [presentations](slides), are in the relevant folders which will be used during the tutorial and is adopted from a previously delivered [tutorial in ICDCS 2024](https://github.com/leolavaur/icdcs_2025).
 
-# Part 4 - Cross-Platform FL Implementation and Real-World Applications
+# Part 2-2 - Cross-Platform FL Implementation and Real-World Applications
 The materials for this part, including the [FedKit](https://github.com/FedCampus/FedKit/tree/e203312add2c9fc1ebb5511bae8a52eb384814c4) code, [FedCampus](https://github.com/FedCampus/FedCampus_Flutter/tree/99859d0bcf340f7096684d8986706678eb7d8823) code and presentation [slides](slides) are organized in the relevant folders of this repository and will be used during the tutorial.
 
 ## Abstract
@@ -35,12 +35,12 @@ Ahmed M. A. Sayed is an Associate Professor at the Queen Mary University of Lond
 Bing Luo is an Assistant Professor of Data and Computational Science at Duke Kunshan University. Before that, he was a joint Postdoctoral Research Fellow at The Chinese University of Hong Kong, Shenzhen, and Yale University. He received his Ph.D. degree from The University of Melbourne, Australia. Before pursuing his Ph.D., he gained several years of industry experience as a project manager at China Mobile Corporation Headquarter in Beijing. His research focuses on the theory and practice of federated learning and analytics, wireless communications and networking, game theory, and optimization. He has published 20 first-author papers in leading journals and conferences, including IEEE JSAC, IEEE TCOM, IEEE TMC, IEEE INFOCOM and IEEE ICDCS, and served as a PC Member in several conferences and workshops, including FL-NeurIPS, FL-ICML, FL-IJCAI, and FL-AAAI. He is a senior member of the IEEE.
 Dr. Bing Luo has been in the cross-disciplinary research of federated learning and analytics, wireless communications and networking, and game-theoretical mechanism design for more than 10 years, including 4 years of telecom industry experience. He has been invited to deliver multiple talks and guest lectures on federated learning and related topics at various universities, including Yale University, Purdue University, and Imperial College London. Recently, he presented the launched FedCampus project at the prestigious Flower AI Summit 2024 (world largest Federated Learning conferences) in London, UK, and had an invited talk at the 60th Annual Allerton Conference 2024. He also co-organized an interdisciplinary workshop on economics and distributed systems at the 2024 IEEE ICDCS.
 
-## Part2 Content Outline
+## Part1-2 Content Outline
 
 **Mechanism design and deployment strategies for fL at the edge.**
 Dr. Bing Luo will talk about how to achieve cost-effective FL deployment at network edge via flexible client sampling and incentive mechanism for randomized client participation. Specifically, he will present recent advanced client sampling strategies for minimizing the FL convergence time in edge networks by jointly considering system heterogeneity and statistical heterogeneity. He will then present a few game-theoretic incentive mechanisms for FL to deal with randomized client participation, which designs a customized pricing strategy to motivate different clients to join with different participation levels for achieving an unbiased and high-performance model.
 
-## Part3 Content Outline
+## Part2-1 Content Outline
 
 1. FL for collaborative security.
 2. Security of FL architectures.
@@ -54,7 +54,7 @@ The hands-on will consist of building a simple CIDS model using Flower and a dat
 **Security in collaborative FL.** 
 Then, we will examine some challenges of deploying and running Federated Intrusion Detection Systems (FIDSs). Depending on the nature of the federation (public or private, trustworthiness of the participants, *etc.*), such systems can be vulnerable to various attacks. In particular, we will focus on poisoning attacks, where a participant tries to degrade the global model by sending malicious contributions, before discussing possible countermeasures. The hands-on will consist of simulating a poisoning attack on the CIDS model built in the previous part, and experimenting with strategies to detect and mitigate such attacks.
 
-## Part4 Content Outline
+## Part2-2 Content Outline
 
 **Cross-platform FL implementation and real-world applications.**
 The tutorial will conclude by demonstrating a cross-platform FL implementation for Android and iOS, and a real-world mobile edge FL launch at university campus as shown below figure. Challenges and future directions will be discussed.
