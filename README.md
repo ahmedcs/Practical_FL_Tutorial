@@ -9,9 +9,7 @@ The materials in this section, including
 [FLgame](https://github.com/Thea-Feng/FL-game/tree/e2063457e19263ef856d8cc8c63a4aab728f3037), 
 [FedKit](https://github.com/FedCampus/FedKit/tree/e203312add2c9fc1ebb5511bae8a52eb384814c4), and 
 [FedCampus](https://github.com/FedCampus/FedCampus_Flutter/tree/99859d0bcf340f7096684d8986706678eb7d8823), 
-are included as submodules in this repository and will be used during the tutorial.
-
-You can also find the presentation slides for **FedCampus & FedKit**, as well as **Mechanism Design (FLgame)**, in the [slides](slides) folder.
+are included as submodules in this repository and will be used during the tutorial. You can also find the presentation slides for **FedCampus & FedKit**, as well as **Mechanism Design (FLgame)**, in the [slides](slides) folder.
 
 
 # PART 3 - Robust FL for Intrusion Detection Systems (IDS)
