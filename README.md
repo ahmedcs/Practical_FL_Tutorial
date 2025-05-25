@@ -5,7 +5,11 @@ This tutorial contains various codes used the tutorial titles ADVANCING FEDERATE
 # Part 1 - From Theory to Practice of FL
 
 # Part 2 - Real-world Case Studies (FedCampus and FLGame)
-The materials in this section, including [FLgame](FL-game @ e206345), FedKit, and the FedCampus code, are organized in the corresponding folders and will be used during the tutorial.
+The materials in this section, including 
+[FLgame](https://github.com/Thea-Feng/FL-game/tree/e2063457e19263ef856d8cc8c63a4aab728f3037), 
+[FedKit](https://github.com/FedCampus/FedKit/tree/e203312add2c9fc1ebb5511bae8a52eb384814c4), and 
+[FedCampus](https://github.com/FedCampus/FedCampus_Flutter/tree/99859d0bcf340f7096684d8986706678eb7d8823), 
+are included as submodules in this repository and will be used during the tutorial.
 
 # PART 3 - Robust FL for Intrusion Detection Systems (IDS)
 This part's  materials, including the [Jupyter notebooks](notebooks), the [datasets](datasets) and the [presentations](slides), are in the relevant folders which will be used during the tutorial and is adopted from a previously delivered [tutorial in ICDCS 2024](https://github.com/leolavaur/icdcs_2025).
