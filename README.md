@@ -11,7 +11,7 @@ The materials in this section, including
 [FedCampus](https://github.com/FedCampus/FedCampus_Flutter/tree/99859d0bcf340f7096684d8986706678eb7d8823), 
 are included as submodules in this repository and will be used during the tutorial.
 
-You can also find the presentation slides for **FedCampus & FedKit**, as well as **FLgame**, in the [presentations](slides) folder.
+You can also find the presentation slides for **FedCampus & FedKit**, as well as **Mechanism Design (FLgame)**, in the [presentations](slides) folder.
 
 
 # PART 3 - Robust FL for Intrusion Detection Systems (IDS)
