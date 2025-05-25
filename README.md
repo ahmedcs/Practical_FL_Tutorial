@@ -2,15 +2,17 @@
 
 This tutorial contains various codes used the tutorial titles ADVANCING FEDERATED LEARNING IN PRACTICE: FROM THEORY TO REAL-WORLD EDGE APPLICATIONS" which is held at the [IEEE International Conference on Machine Learning for Communication and Network](https://icdcs2025.icdcs.org/) (IEEE ICMLCN 2025) in 26 May 2025, Barcelona. You can find a published summary of the tutorial content in the conference proceedings.
 
-# Part 1-1 - From Theory to Practice of FL
+# Part 1 Theory of Edge FL
+## Part 1-1 - From Theory to Practice of FL
 
-# Part 1-2 - Mechanism and Deployment Strategies for FL at the Edge
+## Part 1-2 - Mechanism and Deployment Strategies for FL at the Edge
 The materials for this part, including the [FLgame](https://github.com/Thea-Feng/FL-game/tree/e2063457e19263ef856d8cc8c63a4aab728f3037) code and presentation [slides](slides), are organized in the relevant folders of this repository and will be used during the tutorial.
 
-# Part 2-1 - Robust FL for Intrusion Detection Systems (IDS)
+# Part 2 Practice of Edge FL
+## Part 2-1 - Robust FL for Intrusion Detection Systems (IDS)
 This part's  materials, including the [Jupyter notebooks](notebooks), the [datasets](datasets) and the [presentations](slides), are in the relevant folders which will be used during the tutorial and is adopted from a previously delivered [tutorial in ICDCS 2024](https://github.com/leolavaur/icdcs_2025).
 
-# Part 2-2 - Cross-Platform FL Implementation and Real-World Applications
+## Part 2-2 - Cross-Platform FL Implementation and Real-World Applications
 The materials for this part, including the [FedKit](https://github.com/FedCampus/FedKit/tree/e203312add2c9fc1ebb5511bae8a52eb384814c4) code, [FedCampus](https://github.com/FedCampus/FedCampus_Flutter/tree/99859d0bcf340f7096684d8986706678eb7d8823) code and presentation [slides](slides) are organized in the relevant folders of this repository and will be used during the tutorial.
 
 ## Abstract
