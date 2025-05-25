@@ -7,6 +7,7 @@ Federated Learning (FL) has emerged as a transformative paradigm in distributed 
 
 # Part 1 Theory of Edge FL
 ## Part 1-1 - From Theory to Practice of FL - Shiqiang Wang
+The slides for this part are in [slides](slides). The code of the FedAU algorithm is [here](https://github.com/IBM/fedau).
 
 ## Part 1-2 - Mechanism and Deployment Strategies for FL at the Edge - Bing Luo 
 The materials for this part, including the [FLgame](https://github.com/Thea-Feng/FL-game/tree/e2063457e19263ef856d8cc8c63a4aab728f3037) code and presentation [slides](slides), are organized in the relevant folders of this repository and will be used during the tutorial.
