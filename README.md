@@ -4,7 +4,7 @@ This tutorial contains various codes used the tutorial titles ADVANCING FEDERATE
 
 # Part 1 - From Theory to Practice of FL
 
-# Part 2 - Mechanism & Deployment Strategies for FL at the Edge
+# Part 2 - Mechanism and Deployment Strategies for FL at the Edge
 The materials for this part, including the [FLgame](https://github.com/Thea-Feng/FL-game/tree/e2063457e19263ef856d8cc8c63a4aab728f3037) code and presentation [slides](slides), are organized in the relevant folders of this repository and will be used during the tutorial.
 
 # Part 3 - Robust FL for Intrusion Detection Systems (IDS)
