@@ -37,9 +37,18 @@ Dr. Bing Luo has been in the cross-disciplinary research of federated learning a
 
 ### [Shiqiang Wang](https://shiqiang.wang)
 Shiqiang Wang is a Staff Research Scientist at IBM T. J. Watson Research Center, NY, USA. He received his Ph.D. from Imperial College London, United Kingdom, in 2015. His research focuses on distributed computing, machine learning, networking, and optimization, with applications including Edge AI, IoT, and future wireless systems. He has made foundational contributions to edge computing and federated learning that generated both academic and industrial impact. Dr. Wang serves as an associate editor of the IEEE TMC and IEEE TPDS. He has also been actively organizing workshops at the intersection of edge computing and machine learning, and regularly participates in TPCs of prominent conferences and review panels of research grants. He received the IEEE ComSoc Leonard G. Abraham Prize in 2021, IEEE ComSoc Best Young Professional Award in Industry in 2021, IBM Outstanding Technical Achievement Awards (OTAA) in 2019, 2021, 2022, and 2023, multiple Invention Achievement Awards from IBM since 2016, Best Paper Finalist of the IEEE International Conference on Image Processing (ICIP) 2019, and Best Student Paper Award of the Network and Information Sciences International Technology Alliance (NIS-ITA) in 2015. He is a senior member of the IEEE.
+
+## Part1-1 Content Outline
+This part includes the motivation and basic federated averaging (FedAvg) algorithm for FL, followed by a deep dive into FedAU which mitigates imbalanced client participation in FL. 
+1. Basics of federated learning
+2. Federated averaging (FedAvg) algorithm
+3. Tackling imbalanced client participation – FedAU
+4. Convergence analysis techniques
+5. Experiments and simulation code 
+
 ## Part1-2 Content Outline
 
-**Mechanism design and deployment strategies for fL at the edge.**
+**Mechanism design and deployment strategies for FL at the edge.**
 Dr. Bing Luo will talk about how to achieve cost-effective FL deployment at network edge via flexible client sampling and incentive mechanism for randomized client participation. Specifically, he will present recent advanced client sampling strategies for minimizing the FL convergence time in edge networks by jointly considering system heterogeneity and statistical heterogeneity. He will then present a few game-theoretic incentive mechanisms for FL to deal with randomized client participation, which designs a customized pricing strategy to motivate different clients to join with different participation levels for achieving an unbiased and high-performance model.
 
 ## Part2-1 Content Outline
